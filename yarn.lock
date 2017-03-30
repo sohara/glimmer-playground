@@ -158,6 +158,12 @@
   version "0.23.0-alpha.11"
   resolved "https://registry.yarnpkg.com/@glimmer/util/-/util-0.23.0-alpha.11.tgz#8a706838684381297678cf97b6277a1a6d7668c1"
 
+"@glimmer/web-component@0.1.0":
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/@glimmer/web-component/-/web-component-0.1.0.tgz#133d366dc96e4bf765a403b8b4691238f0b4659f"
+  dependencies:
+    "@glimmer/application" "^0.3.6"
+
 "@glimmer/wire-format@^0.23.0-alpha.11":
   version "0.23.0-alpha.11"
   resolved "https://registry.yarnpkg.com/@glimmer/wire-format/-/wire-format-0.23.0-alpha.11.tgz#61d7db874f37959dacb615c247424b0f5faf87b0"
